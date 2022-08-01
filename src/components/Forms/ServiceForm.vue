@@ -52,10 +52,10 @@ select {
   width: 80%;
   padding: 7px;
   border-radius: 10px;
-  background-color: #f7f7f7;
+  background-color: #e9e8e8;
   color: #acacac;
   outline: none;
-  border-color: transparent;
+  border-color: rgb(177, 177, 177);
   transition: all 0.1s ease-in-out;
 }
 .active {
